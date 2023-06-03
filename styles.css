@@ -4,11 +4,13 @@
 	 border-left: 5px solid green;
 	  padding: 10px;
 }
-
+#heading.h1{
+	   font-size: 20px;
+}
 
 
 h1 {
-    font-size: 16px;
+ 
     color: white;
     text-decoration: underline;
 }
