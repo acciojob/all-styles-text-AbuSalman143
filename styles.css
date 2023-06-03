@@ -5,12 +5,12 @@
 
 .heading {
     border-left: 5px solid green;
-    border-left-width: 5px;
+    
     padding: 10px;
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 16px;
     color: white;
     text-decoration: underline;
 }
