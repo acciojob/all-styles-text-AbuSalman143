@@ -1,16 +1,11 @@
-.main {
-    width: 200px;
-    background-color: purple;
-	 border-left: 5px solid green;
-	  padding: 10px;
+.main{
+	width:200px;
+	background-color:purple;
+	border-left:5px solid green;
+	padding:10px;
 }
-#heading{
-	   font-size: 20px;
-}
-
-
-h1 {
- 
-    color: white;
-    text-decoration: underline;
+ #heading{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
 }
